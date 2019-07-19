@@ -17,7 +17,16 @@ public class JavaApplication82 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        ehgasdjkgljaopg
+   System.out.println("car\tcarro");
+		System.out.println("music\tmusica");
+		System.out.println("dog\tperro");
+		System.out.println("white\tblanco");
+		System.out.println("bottle\tbotella");
+		System.out.println("work\ttrabajo");
+		System.out.println("light\tluz");
+		System.out.println("air\taire"); 
+		System.out.println("shoes\tzapatos");
+	        System.out.println("book\tlibro");
     }
     
 }
