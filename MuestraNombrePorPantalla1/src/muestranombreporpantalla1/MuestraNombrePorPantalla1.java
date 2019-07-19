@@ -3,20 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package muestra.nombre.por.pantalla;
+package muestranombreporpantalla1;
 
 /**
  *
  * @author mario
  */
-public class MuestraNombrePorPantalla {
+public class MuestraNombrePorPantalla1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code
-        System.out.println("Mario Josue Martinez Olivares"); 
+        // TODO code application logic here
+        System.out.println("Mario Josue Martinez Olivares");
     }
     
 }
