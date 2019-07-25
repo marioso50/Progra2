@@ -10,6 +10,8 @@ package p2.semana1.tarea1;
  * @author mario
  */
 public class Ejercicio8 {
+     public static void main(String[] args)
+     {
       System.out.println("\033[34m"); 
 		
         System.out.println("    *");		
@@ -20,4 +22,5 @@ public class Ejercicio8 {
 		
          System.out.println("\033[37m"); 
     
+}
 }
