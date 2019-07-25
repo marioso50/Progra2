@@ -10,6 +10,7 @@ package p2.semana1.tarea1;
  * @author mario
  */
 public class Ejercicio4 {
+     public static void main(String[] args){
     System.out.println("Lunes      \tMartes     \tMiércoles      \tJueves.    \tViernes");
 	System.out.println("======     \t=======    \t======         \t======     \t======");
 	System.out.println("Matematica\tProgramacion\tMicroeconomia  \tEstadistica\tCalculo");
@@ -18,4 +19,4 @@ public class Ejercicio4 {
         System.out.println("Matematica\tProgramacion\tMicroeconomia  \tEstadistica\tCalculo");
         System.out.println("Matematica\tProgramacion\tMicroeconomia  \tEstadistica\tCalculo");
     
-}
+}}
