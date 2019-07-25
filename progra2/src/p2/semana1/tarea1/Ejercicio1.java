@@ -10,7 +10,10 @@ package p2.semana1.tarea1;
  * @author mario
  */
 public class Ejercicio1 {
-    System.out.println("Mario Josue Martinez Olivares");
+    public static void main(String[] args) {
+   System.out.println("Mario Josue Martinez Olivares");
+  }
+    
         
     
 }
