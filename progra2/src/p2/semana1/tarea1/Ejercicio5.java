@@ -10,6 +10,10 @@ package p2.semana1.tarea1;
  * @author mario
  */
 public class Ejercicio5 {
+      public static void main(String[] args)
+     {
+         
+     
       String rojo = "\033[31m";
     String verde = "\033[32m";
     String naranja = "\033[33m";
@@ -27,4 +31,4 @@ public class Ejercicio5 {
         System.out.println(verde +"Matematica"+ rojo + "\tProgramacion" + celeste + "\tMicroeconomia" + morado + "  \tEstadistica" + blanco + "\tCalculo");
         System.out.println(verde +"Matematica"+ rojo + "\tProgramacion" + celeste + "\tMicroeconomia" + verde + "  \tMatematica" + blanco + "\tCalculo");
         
-}
+}}
