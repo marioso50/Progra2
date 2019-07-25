@@ -10,6 +10,8 @@ package p2.semana1.tarea1;
  * @author mario
  */
 public class Ejercicio9 {
+     public static void main(String[] args)
+     {
      String rojo = "\033[31m", verde = "\033[32m", naranja = "\033[33m";
 	String azul = "\033[34m", morado = "\033[35m", blanco = "\033[37m";
     
@@ -28,4 +30,5 @@ public class Ejercicio9 {
 		
 		System.out.println("\033[37m");
     
+}
 }
