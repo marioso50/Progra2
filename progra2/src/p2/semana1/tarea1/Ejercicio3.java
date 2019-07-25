@@ -10,6 +10,8 @@ package p2.semana1.tarea1;
  * @author mario
  */
 public class Ejercicio3 {
+     public static void main(String[] args)
+     {
       System.out.println("car\tcarro");
 		System.out.println("music\tmusica");
 		System.out.println("dog\tperro");
@@ -21,4 +23,4 @@ public class Ejercicio3 {
 		System.out.println("shoes\tzapatos");
 	        System.out.println("book\tlibro");
     
-}
+}}
